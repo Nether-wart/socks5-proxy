@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": 1080,
+        "bind": "0.0.0.0"
+    },
+    "users": [
+        {
+            "name": "user2",
+            "pwd": "password2"
+        }
+    ]
+}
