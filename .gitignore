@@ -2,3 +2,4 @@ logs/
 
 .idea/workspace.xml
 .idea/.gitignore
+target/
